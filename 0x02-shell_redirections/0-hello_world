@@ -1,3 +1,2 @@
 #!/bin/bash
-pr('Hellow, world ')
-Hello, World
+echo "Hello, World"
