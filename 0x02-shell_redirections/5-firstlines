@@ -1,2 +1,2 @@
-#!/bin/bash
-head + 10 / etc /passwd
+#!bin/bash
+perl -ne'1..10 and print' /etc/passwd
